@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rony Fonseca
 - 🔭 Estou querendo trabalhar com front-end
 - 🌱 No monento estou estudando Java Script
-- 📫 Contate-me no email: ronyfonsecadelima24@gmail.com
+- 📫 Contate-me no email: rony.fonseca.dev@gmail.com
 - 😄 Pronomes: ele/dele
   ## 
 
