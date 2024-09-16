@@ -5,7 +5,7 @@
 
 - 🔭 Estou começando a trabalharcom **projetos backend com node**
 
-- 🌱 No monento estou estudando NodeJs (e handlebars)**
+- 🌱 No monento estou estudando NodeJs
 
 - 📫 Contate-me no email: **rony.fonseca.dev@gmail.com**
 
