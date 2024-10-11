@@ -6,7 +6,7 @@
 
 - 📫 Contate-me no email: **rony.fonseca.dev@gmail.com**
 
-- <div>
+<div>
 
 ![image](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
