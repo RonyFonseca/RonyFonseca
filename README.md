@@ -1,11 +1,8 @@
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=FFF&width=1000&height=65&lines=Ol%C3%A1+%2C+eu+me+chamo+Ranma+;Seja+Bem-Vindo(a)+!+👋>)](https://git.io/typing-svg)
-<h3 align="center">Programador Front-End</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranmayt&label=Profile%20views&color=0e75b6&style=flat" alt="Rony" /> </p>
 
 - 🔭 Estou começando a trabalharcom **projetos backend com node**
 
-- 🌱 No monento estou estudando NodeJs
+- 🌱 No momento estou estudando NodeJs
 
 - 📫 Contate-me no email: **rony.fonseca.dev@gmail.com**
 
