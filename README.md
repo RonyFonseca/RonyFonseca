@@ -16,9 +16,8 @@ Sou apaixonado por criar soluções eficientes e escaláveis, sempre buscando es
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### 📚 Estudando no momento
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Padrões de Projeto](https://img.shields.io/badge/Design%20Patterns-5B5B5B?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
